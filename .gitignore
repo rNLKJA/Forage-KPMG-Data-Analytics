@@ -1,0 +1,7 @@
+# The programme's data is not redistributed here.
+*.xlsx
+*.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
